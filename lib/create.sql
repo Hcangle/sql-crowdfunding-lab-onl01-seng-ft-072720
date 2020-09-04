@@ -9,16 +9,16 @@ end_date TEXT
 ;
 
 CREATE TABLE users (
-id INTEGER PRIMARY KEY
-name TEXT, 
+id INTEGER PRIMARY KEY,
+name TEXT,
 age INTEGER
 )
 ;
 
 CREATE TABLE pledges (
-id INTEGER PRIMARY KEY, 
-amount NUMERIC, 
-user_id INTEGER, 
-protect_id INTEGER
+id INTEGER PRIMARY KEY,
+amount NUMERIC,
+user_id INTEGER,
+project_id INTEGER
 )
 ;
