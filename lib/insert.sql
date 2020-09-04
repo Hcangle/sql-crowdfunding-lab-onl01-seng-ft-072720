@@ -1,1 +1,6 @@
-INSERT INTO users (id, name, age) VALUES (1, 'Harry', 17), (2, 'Hermione', 18), (3, 'Ron', 17), (4, 'Neville', 17), (5, 'Luna', 16), (6, 'Ginny', 16), (7, 'Fred', 19), (8, 'George', 19), (9, 'Percy', 20), (10, 'Charlie', 23), (11, 'Bill', 25), (12, 'Sirius', 37), (13, 'Remus' 37), (14, 'James', 21), (15, 'Lily', 21), (16, 'Draco', 18), (17, 'Theo', 17), (18, 'Blaise', 17), (19, 'Pansy', 18), (20, 'Tom', 60);
+
+
+INSERT INTO users (id, name, age) VALUES (1, 'Finnebar', 17), (2, 'Bear', 6), (3, 'Iguana', 4), (4, 'Alex', 33),
+(5, 'Amanda', 24), (6, 'Sophie', 24), (7, 'Rosey', 9), (8, 'Victoria', 23), (9, 'Franz', 100), (10, 'Hermione', 30),
+(11, 'Voldemort', 90), (12, 'Marisa', 24), (13, 'Swizzle', 4), (14, 'Sirius', 36), (15, 'Albus', 113), (16, 'Squid', 5),
+(17, 'Whale', 6), (18, 'Pacha', 5), (19, 'Ena', 24), (20, 'Katie', 24);
