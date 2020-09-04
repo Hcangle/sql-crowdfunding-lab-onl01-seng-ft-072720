@@ -1,1 +1,1 @@
-INSERT INTO users (id, name, age) VALUES (1, 'Harry', 17), (2, 'Hermione', 18), (3, 'Ron', 17), 
+INSERT INTO users (id, name, age) VALUES (1, 'Harry', 17), (2, 'Hermione', 18), (3, 'Ron', 17), (4, 'Neville', 17), (5, 'Luna', 16), (6, 'Ginny', 16), (7, 'Fred', 19), (8, 'George', 19), (9, 'Percy', 20), (10, 'Charlie', 23), (11, 'Bill', 25), (12, 'Sirius', 37), (13, 'Remus' 37), (14, 'James', 21), (15, 'Lily', 21), (16, 'Draco', 18), (17, 'Theo', 17), (18, 'Blaise', 17), (19, 'Pansy', 18), (20, 'Tom', 60);
