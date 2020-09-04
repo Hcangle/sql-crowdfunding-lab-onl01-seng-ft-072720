@@ -17,7 +17,7 @@ age INTEGER
 
 CREATE TABLE pledges (
 id INTEGER PRIMARY KEY, 
-amount INTEGER, 
+amount NUMERIC, 
 user_id INTEGER, 
 protect_id INTEGER
 )
